@@ -10,7 +10,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     <a href="https://www.typescriptlang.org/" target="_blank">
       <img src="${typescriptLogo}" class="logo vanilla" alt="TypeScript logo" />
     </a>
-    <h1>Hola Emerson Machado</h1>
+    <h1>Hola Emerson Machado Cordoba</h1>
     <div class="card">
       <button id="counter" type="button"></button>
     </div>
